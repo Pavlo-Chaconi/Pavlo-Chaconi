@@ -1,16 +1,18 @@
-## Hi there 👋
+# Pavel's Personal Repository
 
-<!--
-**Pavlo-Chaconi/Pavlo-Chaconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Pavel, a 23-year-old System Engineer at RezinoTechnika in Kemerovo. This repository is my personal space for sharing projects, experiments, and code snippets related to systems engineering, automation, and other tech interests.
 
-Here are some ideas to get you started:
+## About Me
+- **Age**: 23
+- **Profession**: System Engineer
+- **Company**: RezinoTechnika, Kemerovo
+- **Interests**: Networks, Hardware, Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore, fork, or contribute!
+
+## Social Links
+- [GitHub](https://github.com/your-username)
+- [Telegram](https://www.instagram.com/your-handle)
+
+- <img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/f5731948-110b-44d7-8317-a263de7d0cb2" />
+
